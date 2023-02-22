@@ -1,4 +1,4 @@
-# Extensión de ChatGPT para VSCode
+# Easy Query
 
 Este repositorio contiene el código fuente de una extensión para Visual Studio Code que usa la API de ChatGPT para traducir frases en lenguaje natural a sentencias SQL.
 
