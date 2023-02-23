@@ -1,6 +1,6 @@
-# easyquery README
+# easy-query README
 
-This is the README for your extension "easyquery". After writing up a brief description, we recommend including the following sections.
+This is the README for your extension "easy-query". After writing up a brief description, we recommend including the following sections.
 
 ## Features
 
